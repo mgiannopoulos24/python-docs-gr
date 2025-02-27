@@ -332,7 +332,7 @@ msgid ""
 "Equivalent to the output of :func:`os.fspath` on the original input path, "
 "with no other normalization, resolution or expansion."
 msgstr ""
-"Η διαδρομή προς το αρχείο gzip στο δίσκο, ως :class:`str` ή :class:`bytes:."
+"Η διαδρομή προς το αρχείο gzip στο δίσκο, ως :class:`str` ή :class:`bytes`."
 "Ισοδυναμεί με την έξοδο της συνάρτησης :func:`os.fspath` για την αρχική "
 "διαδρομή εισόδου, χωρίς καμία άλλη κανονικοποίηση, επίλυση ή επέκταση."
 
