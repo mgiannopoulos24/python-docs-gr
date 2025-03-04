@@ -110,7 +110,7 @@ msgid ""
 "*encoding*, *errors* and *newline* arguments must not be provided."
 msgstr ""
 "Για δυαδική λειτουργία, αυτή η συνάρτηση είναι ισοδύναμη με τον constructor "
-"της κλάσης :class:`GzipFile`: ``GzipFile(filename, mode, compresslevel)``.Σε "
+"της κλάσης :class:`GzipFile`: ``GzipFile(filename, mode, compresslevel)``. Σε "
 "αυτή την περίπτωση, οι παράμετροι *encoding*, *errors* και *newline* δεν "
 "πρέπει να παρέχονται."
 
