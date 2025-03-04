@@ -276,7 +276,7 @@ msgstr ""
 #: library/gzip.rst:118
 msgid ":class:`GzipFile` also provides the following method and attribute:"
 msgstr ""
-"Η κλάση :class:`GzipFile` παρέχει επίσης την ακόλουθη μέθοδο και ιδιότητα:"
+"Η :class:`GzipFile` παρέχει επίσης την ακόλουθη μέθοδο και ιδιότητα:"
 
 #: library/gzip.rst:122
 msgid ""
